@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "name": "Starlight",
+    "cantante": "Dave",
+    "cover": "covers/starlight.jpg",
+    "cancion": "snd/Starlight.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["Starlight", "God's Eye", "3x", "Mrs"],
+    "correctAnswer": "Starlight"
+  },
+  {
+    "id": 2,
+    "name": "God's Eye",
+    "cantante": "Artista",
+    "cover": "covers/god's eye.jpg",
+    "cancion": "snd/Gods Eye.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["1 Flow", "God's Eye", "4AM", "101"],
+    "correctAnswer": "God's Eye"
+  },
+  {
+    "id": 3,
+    "name": "3x",
+    "cantante": "Jim Legxacy x Dave",
+    "cover": "covers/3x jim.jpg",
+    "cancion": "snd/Jim Legxacy x Dave 3x.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["Starlight", "3rd Time Lucky", "3x", "AP Freestyle"],
+    "correctAnswer": "3x"
+  },
+  {
+    "id": 4,
+    "name": "Mrs",
+    "cantante": "Artista",
+    "cover": "covers/23.jpg",
+    "cancion": "snd/Mrs.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["Mrs", "ATM", "ART FEAT. LATTO", "BAD GAL RIRI"],
+    "correctAnswer": "Mrs"
+  },
+  {
+    "id": 5,
+    "name": "1 Flow",
+    "cantante": "Nemzzz",
+    "cover": "covers/1flow.jpg",
+    "cancion": "snd/1 FLOW.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["BMF", "1 Flow", "BOOGA", "BRB"],
+    "correctAnswer": "1 Flow"
+  },
+  {
+    "id": 6,
+    "name": "3rd Time Lucky",
+    "cantante": "AJ Tracey",
+    "cover": "covers/ddbyd.jpg",
+    "cancion": "snd/3rd Time Lucky.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["CLIENTELE feat. Tunde", "COLD", "3rd Time Lucky", "CRG FEAT. DAVE"],
+    "correctAnswer": "3rd Time Lucky"
+  },
+  {
+    "id": 7,
+    "name": "4AM",
+    "cantante": "Nemzzz",
+    "cover": "covers/lockedin.jpg",
+    "cancion": "snd/4AM.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["DILEMMA FEAT. CENTRAL CEE", "4AM", "8AM in Manny", "101"],
+    "correctAnswer": "4AM"
+  },
+  {
+    "id": 8,
+    "name": "8AM in Manny",
+    "cantante": "Nemzzz",
+    "cover": "covers/8am.jpg",
+    "cancion": "snd/8AM IN MANNY.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["Starlight", "8AM in Manny", "AP Freestyle", "ATM"],
+    "correctAnswer": "8AM in Manny"
+  },
+  {
+    "id": 9,
+    "name": "101",
+    "cantante": "Nemzzz",
+    "cover": "covers/lockedin.jpg",
+    "cancion": "snd/101.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["ART FEAT. LATTO", "BAD GAL RIRI", "101", "BMF"],
+    "correctAnswer": "101"
+  },
+  {
+    "id": 10,
+    "name": "AP Freestyle",
+    "cantante": "Nemzzz",
+    "cover": "covers/ap.jpg",
+    "cancion": "snd/AP FREESTYLE.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["AP Freestyle", "BOOGA", "BRB", "CLIENTELE feat. Tunde"],
+    "correctAnswer": "AP Freestyle"
+  },
+  {
+    "id": 11,
+    "name": "ATM",
+    "cantante": "Nemzzz",
+    "cover": "covers/atm.jpg",
+    "cancion": "snd/ATM.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["COLD", "CRG FEAT. DAVE", "ATM", "DILEMMA FEAT. CENTRAL CEE"],
+    "correctAnswer": "ATM"
+  },
+  {
+    "id": 12,
+    "name": "ART FEAT. LATTO",
+    "cantante": "Nemzzz",
+    "cover": "covers/art.jpg",
+    "cancion": "snd/ART FEAT. LATTO.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["God's Eye", "ART FEAT. LATTO", "3x", "Mrs"],
+    "correctAnswer": "ART FEAT. LATTO"
+  },
+  {
+    "id": 13,
+    "name": "BAD GAL RIRI",
+    "cantante": "Nemzzz",
+    "cover": "covers/rentsdue.jpg",
+    "cancion": "snd/BAD GAL RIRI .m4a",
+    "question": "¿Qué canción es?",
+    "options": ["1 Flow", "3rd Time Lucky", "BAD GAL RIRI", "4AM"],
+    "correctAnswer": "BAD GAL RIRI"
+  },
+  {
+    "id": 14,
+    "name": "BMF",
+    "cantante": "Nemzzz",
+    "cover": "covers/rentsdue.jpg",
+    "cancion": "snd/BMF.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["8AM in Manny", "BMF", "101", "AP Freestyle"],
+    "correctAnswer": "BMF"
+  },
+  {
+    "id": 15,
+    "name": "BOOGA",
+    "cantante": "Central Cee",
+    "cover": "covers/booga.jpg",
+    "cancion": "snd/BOOGA.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["ATM", "ART FEAT. LATTO", "BOOGA", "BAD GAL RIRI"],
+    "correctAnswer": "BOOGA"
+  },
+  {
+    "id": 16,
+    "name": "BRB",
+    "cantante": "Nemzzz",
+    "cover": "covers/lockedin.jpg",
+    "cancion": "snd/BRB.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["BRB", "BMF", "CLIENTELE feat. Tunde", "COLD"],
+    "correctAnswer": "BRB"
+  },
+  {
+    "id": 17,
+    "name": "CLIENTELE feat. Tunde",
+    "cantante": "Nemzzz",
+    "cover": "covers/lockedin.jpg",
+    "cancion": "snd/CLIENTELE feat. Tunde.m4a",
+    "question": "¿Qué canción es?",
+    "options": [
+      "CRG FEAT. DAVE",
+      "CLIENTELE feat. Tunde",
+      "DILEMMA FEAT. CENTRAL CEE",
+      "Starlight"
+    ],
+    "correctAnswer": "CLIENTELE feat. Tunde"
+  },
+  {
+    "id": 18,
+    "name": "COLD",
+    "cantante": "Nemzzz",
+    "cover": "covers/rentsdue.jpg",
+    "cancion": "snd/COLD.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["God's Eye", "3x", "COLD", "Mrs"],
+    "correctAnswer": "COLD"
+  },
+  {
+    "id": 19,
+    "name": "CRG FEAT. DAVE",
+    "cantante": "Central Cee",
+    "cover": "covers/crg.jpg",
+    "cancion": "snd/CRG FEAT. DAVE.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["1 Flow", "CRG FEAT. DAVE", "3rd Time Lucky", "4AM"],
+    "correctAnswer": "CRG FEAT. DAVE"
+  },
+  {
+    "id": 20,
+    "name": "DILEMMA FEAT. CENTRAL CEE",
+    "cantante": "Nemzzz",
+    "cover": "covers/rentsdue.jpg",
+    "cancion": "snd/DILEMMA FEAT. CENTRAL CEE.m4a",
+    "question": "¿Qué canción es?",
+    "options": ["8AM in Manny", "101", "DILEMMA FEAT. CENTRAL CEE", "AP Freestyle"],
+    "correctAnswer": "DILEMMA FEAT. CENTRAL CEE"
+  }
+]
