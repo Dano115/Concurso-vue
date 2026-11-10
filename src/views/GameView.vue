@@ -4,7 +4,7 @@ import {ref} from 'vue'
 const name = ref("")
 
 const startGame = ()=> {
-    if(name.value===""){
+    if(name.value.trim()==="" || name.value.length<2){
         alert("Introduce tu nombre y comienza el juego")
     }else{
         console.log("el juego a comenzado para: " + name.value)
@@ -20,7 +20,7 @@ const startGame = ()=> {
     <button type="submit">Start</button>
 </form>
 
-<p v-if="name ===''">Escribe tu nombre arriba para continuar.</p>
-<p v-else=""> ¡Bienvenido {{name}}! Comencemos</p>
+<p v-if="name.trim() ==='' || name.length<2">Escribe tu nombre arriba para continuar.</p>
+<p v-else> ¡Bienvenido {{name}}! Comencemos</p>
 </template>
 <style></style>
